@@ -1,5 +1,5 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: Alex's Datablog
+description: Aspiring data nerd
 show_downloads: true
-google_analytics:
-theme: 
+google_analytics: UA-99295144-1
+theme: jekyll-theme-cayman
